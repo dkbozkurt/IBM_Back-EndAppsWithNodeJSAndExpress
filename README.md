@@ -9,5 +9,21 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/> </a>
+<a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a> 
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
+
 </div>
 
+<div align="left">
+  
+## What I have learned[](https://www.coursera.org/learn/developing-backend-apps-with-nodejs-and-express?specialization=ibm-full-stack-cloud-developer)
+
+* [ ] Server-side development using JavaScript
+* [ ] Code your first web server using node package manager
+* [ ] Make applications run in a non-blocking manner
+* [ ] Use Asynchronous callbacks and promises
+* [ ] How REST APIs are used with Express.js
+* [ ] Build a web server using Express
+* [ ] Create dynamic content with middleware, routing, and templating
+
+</div>
