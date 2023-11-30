@@ -125,3 +125,8 @@ Hello, World! The date today is Wed Oct 14 2020 14:56:42 GMT+1030 (Australian Ea
 ```
 
 <b>It should indicate that your app is up and running.</b>
+
+### Challenge:
+
+Make changes in challenge-index-with-require.js to greet the user depending on the time of the day.
+
