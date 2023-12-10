@@ -62,4 +62,3 @@ exports.current = function(location,resultCallback){
 
 * String matching ignores the structure of XML data
 * The xml2js Node.js package parses a string of XML elements into a JavaScript object
-
