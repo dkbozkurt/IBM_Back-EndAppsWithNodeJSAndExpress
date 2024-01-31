@@ -18,12 +18,12 @@
   
 ## What I have learned[](https://www.coursera.org/learn/developing-backend-apps-with-nodejs-and-express?specialization=ibm-full-stack-cloud-developer)
 
-* [ ] Server-side development using JavaScript
-* [ ] Code your first web server using node package manager
-* [ ] Make applications run in a non-blocking manner
-* [ ] Use Asynchronous callbacks and promises
-* [ ] How REST APIs are used with Express.js
-* [ ] Build a web server using Express
-* [ ] Create dynamic content with middleware, routing, and templating
+* [X] Server-side development using JavaScript
+* [X] Code your first web server using node package manager
+* [X] Make applications run in a non-blocking manner
+* [X] Use Asynchronous callbacks and promises
+* [X] How REST APIs are used with Express.js
+* [X] Build a web server using Express
+* [X] Create dynamic content with middleware, routing, and templating
 
 </div>
